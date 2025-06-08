@@ -9,7 +9,8 @@ This project was developed with the aim of demonstrating a fundamental voting sy
 - Intuitive display of candidates.
 - Ability to cast a single vote for a selected candidate.
 - Real-time indication of voting period status (open/closed).
-- Administrator Panel (Secure):
+- 
+ **Administrator Panel (Secure):**
 - Voting Control: Manually open and close the voting period.
 - Live Statistics: View total votes cast in real-time.
   
