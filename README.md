@@ -12,6 +12,7 @@ This project was developed with the aim of demonstrating a fundamental voting sy
 - Administrator Panel (Secure):
 - Voting Control: Manually open and close the voting period.
 - Live Statistics: View total votes cast in real-time.
+  
 **Secure Administration (Password Protected):**
 - View detailed vote results and percentages.
 - Reset all votes (requires re-authentication).
